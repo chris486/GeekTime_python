@@ -14,4 +14,4 @@
 
 > 开发经验，质的突破
 
-![python 知识图谱]( https://static001.geekbang.org/resource/image/44/9c/4455fbc020a33d2af346e934f05f119c.png )
+![python 知识图谱]( https://github.com/chris486/GeekTime_python/blob/master/learn_python.png )
