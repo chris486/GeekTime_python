@@ -1,2 +1,1 @@
-# GeekTime_python
-Summary for GeekTime_python lessons
+# Summary for GeekTime_python lessons
