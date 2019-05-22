@@ -14,4 +14,4 @@
 
 > 开发经验，质的突破
 
-![python 知识图谱]( https://github.com/chris486/GeekTime_python/blob/master/pic/learn_python.png )
+![python 知识图谱]( ../pic/learn_python.png )
